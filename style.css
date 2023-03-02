@@ -18,10 +18,10 @@
     color: forestgreen;
 }
 
-.Game
-{
-    box-sizing: content-box;
-}
+/* Add some padding inside the card container */
+.GC {
+    padding: 2px 16px;
+  }
 
 .card {
     /* Add shadows to create the "card" effect */
