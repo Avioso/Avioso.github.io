@@ -17,3 +17,8 @@
 {
     color: forestgreen;
 }
+
+.Game
+{
+    box-sizing: content-box;
+}
